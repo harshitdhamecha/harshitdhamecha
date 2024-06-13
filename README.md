@@ -9,7 +9,9 @@ I am a final year ECE student at VIT Vellore 🎓. I am passionate about learnin
 ## Skills 🚀
 
 - Programming Language: Java ☕
-- Data Structures and Algorithms: DSA 📚
+- Web Development (React)
+- Product Management
+- Business Analysis
 - Design: Figma 🎨
 
 ## Experience 💼
