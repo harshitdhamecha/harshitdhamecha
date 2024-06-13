@@ -31,3 +31,5 @@ Feel free to reach out to me at harshitdhamecha@gmail.com 📧. You can also con
 I am passionate about leveraging technology to create innovative solutions and captivating user experiences through design. Let's connect and bring ideas to life! 😄
 
 Looking forward to connecting with fellow tech enthusiasts and seizing exciting opportunities! 🌟
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/harshitdhamecha)
