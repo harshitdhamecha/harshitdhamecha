@@ -32,4 +32,4 @@ I am passionate about leveraging technology to create innovative solutions and c
 
 Looking forward to connecting with fellow tech enthusiasts and seizing exciting opportunities! 🌟
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/harshitdhamecha)
+![Leetcode Stats](https://leetcard.jacoblin.cool/harshitdhamecha?ext=activity)
